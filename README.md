@@ -80,14 +80,14 @@ Looking forward to connecting!
 ---
 
 <a href="https://aws.amazon.com" target="blank">
-<img align="center" src="../kpunnarao/Images/aws-logo.png" alt="AWS" height="40" width="50" />
+<img align="center" src="Images/aws-logo.png" alt="AWS" height="40" width="50" />
 </a>
 <a href="https://azure.microsoft.com/en-in/" target="blank">
-<img align="center" src="../kpunnarao/Images/Microsoft_Azure-Logo.svg" alt="Azure" height="120" width="120" />
+<img align="center" src="Images/Microsoft_Azure-Logo.svg" alt="Azure" height="120" width="120" />
 </a>
 
 <a href="https://kubernetes.io" target="blank">
-<img align="center" src="../kpunnarao/Images/kubernetes.png" alt="Kubernetes" height="60" width="80" />
+<img align="center" src="Images/kubernetes.png" alt="Kubernetes" height="60" width="80" />
 </a>
 
 > 💬 *“Cloud architecture is not just about infrastructure—it's about vision, automation, and delivering value at scale.”*
