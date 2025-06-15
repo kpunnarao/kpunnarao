@@ -85,9 +85,32 @@ Looking forward to connecting!
 <a href="https://azure.microsoft.com/en-in/" target="blank">
 <img align="center" src="Images/Microsoft_Azure-Logo.svg" alt="Azure" height="120" width="120" />
 </a>
-
 <a href="https://kubernetes.io" target="blank">
 <img align="center" src="Images/kubernetes.png" alt="Kubernetes" height="60" width="80" />
+</a>
+<a href="https://helm.sh/" target="blank">
+<img align="center" src="Images/helm.svg" alt="Helm" height="60" width="60" />
+</a>
+<a href="https://kustomize.io/" target="blank">
+<img align="center" src="Images/kustomize.png" alt="Helm" height="80" width="120" />
+</a>
+<a href="https://fluxcd.io/" target="blank">
+<img align="center" src="Images/Flux_logo.png" alt="Helm" height="40" width="70" />
+</a>
+<a href="https://www.jenkins.io" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="50" width="50" />
+</a>
+<a href="https://www.jetbrains.com/teamcity/" target="blank">
+<img align="center" src="Images/TeamCity.png" alt="Helm" height="50" width="50" />
+</a>
+<a href="https://www.terraform.io/" target="blank">
+<img align="center" src="Images/terraform.png" alt="Terraform" height="60" width="60" />
+</a>
+<a href="https://github.com/" target="blank">
+<img align="center" src="Images/GitHub.png" alt="GitHub" height="60" width="60" />
+</a>
+<a href="https://www.linux.org/" target="blank">
+<img align="center" src="Images/Linux.webp" alt="linux" height="60" width="60" />
 </a>
 
 > 💬 *“Cloud architecture is not just about infrastructure—it's about vision, automation, and delivering value at scale.”*
